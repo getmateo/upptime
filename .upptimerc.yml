@@ -10,10 +10,7 @@ sites:
     url: https://www.hellomateo.de/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: status.getmateo.com
   logoUrl: https://raw.githubusercontent.com/getmateo/upptime/master/assets/mateo-logo.svg
   name: Mateo
   introTitle: Welcome to the Mateo uptime status dashboard!
